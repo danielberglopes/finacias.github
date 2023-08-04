@@ -10,7 +10,7 @@
     <a href="#licença-%EF%B8%8F">Licença</a>
 </p>
 
-# Dev.Finances <img src=".github/logo-icon.png" width="40" alt="logo icon"><img src=".github/logo-icon.png" width="40" alt="logo icon"><img src=".github/logo-icon.png" width="40" alt="logo icon">
+
 Projeto desenvolvido para administrar melhor ganhos e gastos. Projeto realizado na Maratona Discover @Rocketseat.
 
 #### Funcionalidades
@@ -51,7 +51,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ```bash
 
 # Clone o repositório
-$ git clone https://github.com/NyctibiusVII/Dev.Finances.git
+$ git clone  github.com/danielberglopes/finacias.github.git
 
 # Acesse a pasta do projeto no prompt de comando
 $ cd Dev.Finances
